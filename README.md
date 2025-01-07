@@ -1,6 +1,6 @@
-## Nalum
+## Nalum - NSUT Alumni
 
-NSUT Alumni
+**Live Demo**: https://nsut-nalum.vercel.app/
 
 ## Tech Stack
 

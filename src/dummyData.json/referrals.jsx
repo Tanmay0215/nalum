@@ -8,6 +8,10 @@ export const referrals = {
             title: "Backend Developer Intern",
             technology: "Node.js",
           },
+          {
+            title: "UI/UX Designer Intern",
+            technology: "Figma",
+          },
         ],
         eligibleBatches: ["2023", "2024", "2025", "2026"],
         stipend: {
@@ -20,7 +24,7 @@ export const referrals = {
         ppo: true,
         applicationProcess: {
           type: "email",
-          contact: "anujha2499@gmail.com",
+          contact: "john@gmail.com",
         },
       },
       {
@@ -30,6 +34,10 @@ export const referrals = {
           {
             title: "Software Engineer Intern",
             technology: "Full Stack",
+          },
+          {
+            title: "UI/UX Designer Intern",
+            technology: "Figma",
           },
         ],
         eligibleBatches: ["2024", "2025"],
@@ -80,6 +88,10 @@ export const referrals = {
           {
             title: "Machine Learning Intern",
             technology: "Python",
+          },
+          {
+            title: "UI/UX Designer Intern",
+            technology: "Figma",
           },
         ],
         eligibleBatches: ["2024"],
